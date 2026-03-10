@@ -1,4 +1,4 @@
-# Expense Tracker - Project 2
+## Expense Tracker - Project 2
 
 print("Welcome to Expense Tracker")
 print("Enter your expenses one by one.")
