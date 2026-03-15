@@ -23,7 +23,7 @@ This project teaches how to store multiple values inside a single variable using
 - Finish assignment
 - Submit project
 
---------------------------------------------------
+---------------------------------------------------
 
 ## Project 2: Expense Tracker
 
