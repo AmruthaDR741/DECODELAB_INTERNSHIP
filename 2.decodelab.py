@@ -1,10 +1,10 @@
-# Expense Tracker - Project 2
+## Expense Tracker - Project 2
 
 print("Welcome to Expense Tracker")
 print("Enter your expenses one by one.")
 print("Type 'done' to finish.\n")
 
-total = 0  # accumulator variable
+total = 0  #  accumulator variable
 
 while True:
     user_input = input("Enter expense amount: ")
