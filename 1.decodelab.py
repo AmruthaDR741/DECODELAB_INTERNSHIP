@@ -1,6 +1,6 @@
 # ==============================
-# DecodeLabs - Project 1
-# TO-DO LIST PROGRAM
+# DecodeLabs -TO-DO LIST PROGRAM Project 1
+# 
 # ==============================
 
 # Memory (List acts like a Database Table)
