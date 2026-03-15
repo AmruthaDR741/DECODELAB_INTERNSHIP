@@ -74,6 +74,50 @@ This project helps developers understand how to use Python's built-in libraries 
 
 --------------------------------------------------
 
+## Project 4: The general knowledge quizz
+
+A simple interactive quiz game that tests users' general knowledge with 3 questions. The program tracks scores and provides immediate feedback.
+
+## 🎯 Goal
+
+Create a game that asks 3 questions (e.g., "What is the capital of France?"). Keep a score counter: +1 point for every correct answer. Print the final score at the end.
+
+## 🛠️ Key Skills Demonstrated
+
+- *If-Else Logic* - Conditional statements to check answers
+- *Variables* - Storing and updating the score counter
+- *User Input* - Getting responses from players
+- *Control Flow* - Directing program flow based on user choices
+
+## 📝 Why It Matters
+
+This project teaches *"Control Flow"*—directing the program based on user choices. Understanding control flow is fundamental to creating interactive applications.
+
+## 🎮 How It Works
+
+1. The program asks 3 general knowledge questions
+2. User types their answer for each question
+3. Program checks if answer is correct using if-else statements
+4. Score increases by 1 for each correct answer
+5. Final score is displayed at the end
+
+## 📋 Sample Questions
+
+- What is the capital of France?
+- Which planet is known as the Red Planet?
+- What is the boiling point of water in Celsius?
+
+## 🚀 How to Run
+
+# Clone this repository
+git clone https://github.com/AmruthaDR741/DECODELAB_INTERNSHIP.git
+
+# Navigate to the project directory
+cd DECODELAB_INTERNSHIP
+
+# Run the quiz
+python 4.decodelab.py
+
 ## How to Run the Project
 
 1. Install Python on your system
@@ -86,11 +130,13 @@ cd python-mini-projects
 
 4. Run the Python files
 
-python todo_list.py
+python Todo_list.py
 
-python expense_tracker.py
+python Expense_tracker.py
 
-python password_generator.py
+python Password_generator.py
+
+python The general knowledge quizz.py
 
 --------------------------------------------------
 
